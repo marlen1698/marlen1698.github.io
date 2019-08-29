@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://marlen1698.github.io/"/>
-  <updated>2018-03-22T05:50:40.162Z</updated>
+  <updated>2019-08-29T10:06:20.134Z</updated>
   <id>http://marlen1698.github.io/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>七牛上传</title>
+    <link href="http://marlen1698.github.io/2019/08/29/%E4%B8%83%E7%89%9B%E4%B8%8A%E4%BC%A0/"/>
+    <id>http://marlen1698.github.io/2019/08/29/七牛上传/</id>
+    <published>2019-08-29T10:06:20.000Z</published>
+    <updated>2019-08-29T10:06:20.134Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Learn CSS Layout</title>
