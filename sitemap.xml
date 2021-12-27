@@ -4,92 +4,220 @@
   <url>
     <loc>http://marlen1698.github.io/2018/01/24/The%20SVN%20is%20associated%20with%20webstrom/</loc>
     
-    <lastmod>2021-12-26T09:30:21.741Z</lastmod>
+    <lastmod>2021-12-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marlen1698.github.io/2017/11/22/Start/</loc>
     
-    <lastmod>2021-12-26T09:30:19.088Z</lastmod>
+    <lastmod>2021-12-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marlen1698.github.io/2017/12/11/Webstorm/</loc>
     
-    <lastmod>2021-12-26T09:26:53.888Z</lastmod>
+    <lastmod>2021-12-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marlen1698.github.io/2017/11/30/Classification/</loc>
     
-    <lastmod>2021-12-26T09:26:46.937Z</lastmod>
+    <lastmod>2021-12-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marlen1698.github.io/2017/12/07/Sass/</loc>
     
-    <lastmod>2021-12-26T09:26:18.277Z</lastmod>
+    <lastmod>2021-12-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marlen1698.github.io/2019/08/29/Qiniu%20upload/</loc>
     
-    <lastmod>2021-12-26T09:26:10.139Z</lastmod>
+    <lastmod>2021-12-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marlen1698.github.io/2017/12/25/Web%20Resources/</loc>
     
-    <lastmod>2021-12-26T09:21:12.465Z</lastmod>
+    <lastmod>2021-12-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marlen1698.github.io/2021/12/26/2021year/</loc>
     
-    <lastmod>2021-12-26T09:19:15.897Z</lastmod>
+    <lastmod>2021-12-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marlen1698.github.io/2017/12/06/hello-world/</loc>
     
-    <lastmod>2018-12-27T13:02:55.626Z</lastmod>
+    <lastmod>2018-12-27</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marlen1698.github.io/tags/index.html</loc>
     
-    <lastmod>2018-12-27T13:00:24.024Z</lastmod>
+    <lastmod>2018-12-27</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marlen1698.github.io/2018/03/22/Layout/</loc>
     
-    <lastmod>2018-03-22T05:50:40.162Z</lastmod>
+    <lastmod>2018-03-22</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marlen1698.github.io/categories/index.html</loc>
     
-    <lastmod>2017-12-07T01:08:57.336Z</lastmod>
+    <lastmod>2017-12-07</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marlen1698.github.io/about/index.html</loc>
     
-    <lastmod>2017-12-06T11:17:53.281Z</lastmod>
+    <lastmod>2017-12-06</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>http://marlen1698.github.io/</loc>
+    <lastmod>2021-12-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://marlen1698.github.io/tags/%E9%9A%8F%E8%AE%B0/</loc>
+    <lastmod>2021-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://marlen1698.github.io/tags/git/</loc>
+    <lastmod>2021-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://marlen1698.github.io/tags/sass/</loc>
+    <lastmod>2021-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://marlen1698.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2021-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://marlen1698.github.io/tags/webstom/</loc>
+    <lastmod>2021-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://marlen1698.github.io/tags/Emmet/</loc>
+    <lastmod>2021-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://marlen1698.github.io/tags/css/</loc>
+    <lastmod>2021-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://marlen1698.github.io/tags/flex/</loc>
+    <lastmod>2021-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://marlen1698.github.io/tags/grid/</loc>
+    <lastmod>2021-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://marlen1698.github.io/tags/%E5%B8%83%E5%B1%80/</loc>
+    <lastmod>2021-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://marlen1698.github.io/tags/%E6%B5%81%E5%BC%8F%E5%B8%83%E5%B1%80/</loc>
+    <lastmod>2021-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://marlen1698.github.io/categories/%E6%97%A5%E8%AE%B0/</loc>
+    <lastmod>2021-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://marlen1698.github.io/categories/%E5%88%86%E7%B1%BB/</loc>
+    <lastmod>2021-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
 </urlset>
